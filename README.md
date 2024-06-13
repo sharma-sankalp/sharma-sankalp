@@ -1,4 +1,4 @@
-![MasterHead](https://www.rezilion.com/wp-content/uploads/2022/04/B_ShiftLeft-DSO_0422_banner.jpg)
+![MasterHead](https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg)
 <h1 align="left">Hi 👋, I'm Sankalp Sharma</h1>
 <h3 align="left">A passionate DevOps and Cloud engineer from India</h3>
 
