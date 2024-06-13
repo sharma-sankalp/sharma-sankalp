@@ -1,6 +1,6 @@
-[![MasterHead](https://www.rezilion.com/wp-content/uploads/2022/04/B_ShiftLeft-DSO_0422_banner.jpg)]
-<h1 align="right">Hi 👋, I'm Sankalp Sharma</h1>
-<h3 align="right">A passionate DevOps and Cloud engineer from India</h3>
+![MasterHead](https://www.rezilion.com/wp-content/uploads/2022/04/B_ShiftLeft-DSO_0422_banner.jpg)
+<h1 align="left">Hi 👋, I'm Sankalp Sharma</h1>
+<h3 align="left">A passionate DevOps and Cloud engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma-sankalp&label=Profile%20views&color=0e75b6&style=flat" alt="sharma-sankalp" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
