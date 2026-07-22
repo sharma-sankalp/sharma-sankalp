@@ -97,11 +97,11 @@ My primary focus is enabling engineering teams by building secure, reliable, and
 
 > 🚧 These projects are currently being designed and documented.
 
-- 🔹 Platform Engineering on AWS
-- 🔹 Production Amazon EKS Platform
-- 🔹 Enterprise GitHub Actions
-- 🔹 DevSecOps Pipeline
-- 🔹 Kubernetes Observability Stack
+- Platform Engineering on AWS
+- Production Amazon EKS Platform
+- Enterprise GitHub Actions
+- DevSecOps Pipeline
+- Kubernetes Observability Stack
 
 ---
 
