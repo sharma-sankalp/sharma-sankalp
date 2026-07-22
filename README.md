@@ -1,29 +1,73 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg)
-<h1 align="left">Hi 👋, I'm Sankalp Sharma</h1>
-<h3 align="left">A passionate DevOps and Cloud engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Sankalp Sharma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma-sankalp&label=Profile%20views&color=0e75b6&style=flat" alt="sharma-sankalp" /> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h3 align="center">
+Technical Lead | Platform Engineering | AWS | Kubernetes | Terraform | GitHub Actions | DevSecOps
+</h3>
 
-- 🔭 I’m currently working on **8 microservices CICD pipeline**
+---
 
-- 🌱 I’m currently learning **Python, Azure DevOps**
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/sharma-sankalp](https://github.com/sharma-sankalp)
+I'm a Technical Lead specializing in Platform Engineering and Cloud Infrastructure with 8+ years of experience designing, automating, and operating cloud-native platforms.
 
-- 📝 I regularly write articles on [https://medium.com/@sankalp_sharma](https://medium.com/@sankalp_sharma)
+My expertise includes AWS, Kubernetes, Terraform, GitHub Actions, CI/CD, DevSecOps, Observability, and Infrastructure as Code.
 
-- 💬 Ask me about **DevOps & Cloud**
+I enjoy building scalable, secure, and automated platforms that improve developer productivity and operational excellence.
 
-- 📫 How to reach me **sankalp-sharma@outlook.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CQVHRat1ZQOW5Dt9vdhNiE3_3K4Y2WKh/view?usp=sharing](https://drive.google.com/file/d/1CQVHRat1ZQOW5Dt9vdhNiE3_3K4Y2WKh/view?usp=sharing)
+## 🚀 Core Expertise
 
-<h3 align="left">Connect with me:</h3>
+- Platform Engineering
+- AWS Cloud
+- Kubernetes (EKS)
+- Terraform
+- GitHub Actions
+- DevSecOps
+- CI/CD Automation
+- Docker
+- Linux
+- Observability
+- Prometheus
+- Grafana
+- OpenTelemetry
+- ArgoCD
+- Infrastructure as Code
+
+---
+
+## 🏆 Certifications
+
+- AWS Certified Cloud Practitioner
+- Microsoft Azure Fundamentals
+- HashiCorp Terraform Associate
+- GitHub Foundations
+- GitHub Actions
+- GitHub Advanced Security
+- Linux Essentials
+- ITIL Foundation
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Kubernetes
+- Platform Engineering
+- AI for Infrastructure Engineering
+- Cloud Architecture
+- Python Automation
+
+---
+
+## 📫 Connect with me
+
+<h3 align="left">LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/ssankalp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ssankalp" height="30" width="40" /></a>
-<a href="https://medium.com/@sankalp_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sankalp_sharma" height="30" width="40" /></a>
-</p>
+
+Email:
+<your email>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
